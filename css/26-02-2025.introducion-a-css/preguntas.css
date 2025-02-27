@@ -1,0 +1,26 @@
+.pregunta1, .pregunta2, .pregunta3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+    color: #333333;
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: #f0f0f0;
+    border-left: 5px solid #4CAF50;
+    border-radius: 5px;
+}
+
+.respuesta1, .respuesta2, .respuesta3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    text-align: justify;
+    color: #66ee33;
+    line-height: 1.6;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
